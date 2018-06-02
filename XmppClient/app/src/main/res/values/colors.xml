@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--<color name="colorPrimary">#2b2b2b</color>-->
+    <!--<color name="colorPrimaryDark">#212121</color>-->
+
+    <color name="colorPrimary">#FFFFFF</color>
+    <color name="colorPrimaryDark">#8C8C8C</color>
+    <color name="colorAccent">#8C8C8C</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="grey">#8C8C8C</color>
+    <color name="gray_50">#FAFAFA</color>
+    <color name="gray_100">#f5f5f5</color>
+    <color name="gray_200">#EEEEEE</color>
+    <color name="gray_300">#E0E0E0</color>
+    <color name="gray_400">#BDBDBD</color>
+    <color name="gray_500">#9E9E9E</color>
+    <color name="gray_600">#757575</color>
+    <color name="gray_700">#616161</color>
+    <color name="gray_800">#424242</color>
+    <color name="gray_900">#212121</color>
+    <color name="text_color">#e78170</color>
+    <color name="deep_orange_50">#FBE9E7</color>
+    <color name="deep_orange_100">#FFCCBC</color>
+    <color name="deep_orange_400">#FF7043</color>
+    <color name="bg_black">#ff3f3f3f</color>
+    <color name="bg_black_darker">#393939</color>
+    <color name="bg_black_height">#ff262626</color>
+    <color name="bg_black_light">#ff3a3a3a</color>
+    <color name="group_background">#FF282828</color>
+    <color name="transparent_much">#10000000</color>
+    <color name="transparent">#00000000</color>
+    <color name="node_sleep_shape">#f2ee07</color>
+    <color name="node_sleep_busy">#ac4714</color>
+    <color name="node_sleep_offline">#696968</color>
+    <color name="red">#FF0000</color>
+    <color name="yellow">#ecf9ec03</color>
+    <color name="green">#ec30f903</color>
+    <color name="blue">#0000ff</color>
+
+
+    <color name="ksw_md_ripple_normal">#1E000000</color>
+    <color name="ksw_md_ripple_checked">#33019285</color>
+
+    <color name="ksw_md_solid_shadow">#33000000</color>
+
+    <color name="ksw_md_solid_normal">#ECECEC</color>
+    <color name="ksw_md_solid_checked">#019285</color>
+    <color name="ksw_md_solid_disable">#FFFFFF</color>
+    <color name="ksw_md_solid_checked_disable">#aaaaaa</color>
+</resources>
